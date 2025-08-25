@@ -1,4 +1,4 @@
 [submodule "baselayer"]
 	path = baselayer
-	url = https://github.com/cesium-ml/baselayer.git
-	branch = main
+	url = https://github.com/Theodlz/baselayer.git
+	branch = service_plugins
